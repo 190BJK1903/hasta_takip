@@ -7,7 +7,8 @@ class Hasta():
         self.yas = yas
         self.liste = []
 
-def problem_ekle(self, problem):
+    def problem_ekle(self, problem):
+        self.liste.append(problem)
     
 
 
