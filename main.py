@@ -15,7 +15,9 @@ class Hasta():
 
 hasta = Hasta("Ricardo Quaresma", "ayak kirigi", 38)   #
 hasta2 = Hasta("Anderson Talisca", "bas agrisi", 30)    
+hasta3 = Hasta("Pepe", "karin agrisi", "40"
 
+hasta.
 
 print(hasta.name, hasta.problem, hasta.yas)
 print(hasta2.problem)
